@@ -11,7 +11,7 @@
 
 1. Clona el repositorio:
 
-   git clone https://github.com/tu-usuario/TestSmdigital.git
+   git clone https://github.com/juandavid247/TetsSmdigital.git
 
 2. Navega al directorio del proyecto:
 
